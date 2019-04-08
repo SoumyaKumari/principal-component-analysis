@@ -1,2 +1,2 @@
 # principal-component-analysis
-PCA on stock market
+PCA for dimentionality reduction on stock market dataset
